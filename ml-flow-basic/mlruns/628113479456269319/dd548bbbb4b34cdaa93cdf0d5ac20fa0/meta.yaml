@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/628113479456269319/dd548bbbb4b34cdaa93cdf0d5ac20fa0/artifacts
+end_time: 1752685976339
+entry_point_name: ''
+experiment_id: '628113479456269319'
+lifecycle_stage: active
+run_id: dd548bbbb4b34cdaa93cdf0d5ac20fa0
+run_name: fortunate-perch-126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752685962698
+status: 3
+tags: []
+user_id: tembh

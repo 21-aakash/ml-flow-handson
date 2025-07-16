@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/628113479456269319/6510125e463e4c2fac7fc46b1a5c139b/artifacts
+end_time: 1752685049382
+entry_point_name: ''
+experiment_id: '628113479456269319'
+lifecycle_stage: active
+run_id: 6510125e463e4c2fac7fc46b1a5c139b
+run_name: capable-grouse-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752685029100
+status: 3
+tags: []
+user_id: tembh
